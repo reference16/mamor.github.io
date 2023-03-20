@@ -1,0 +1,497 @@
+*
+{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    cursor: pointer;
+}
+header
+{
+    background-color: #857dff;
+    
+    width: 100%;
+    height: 100px;
+    
+}
+.logo a
+{
+    color: #f3f2ff;
+    padding: 15px 10px;
+    border: 1px solid #ffebd8;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+    text-transform: uppercase;/*Magiscule*/
+    text-shadow: black;
+}
+.logo span
+{
+    color:#ffd5ba;
+    font-size: 30px;
+    
+}
+.ref-liste
+{
+    list-style: none;
+    display: flex;
+    float: right;
+    margin-top: 10px;
+}
+.ref
+{
+    cursor: pointer;
+}
+.ref span
+{
+    font-size: 10px;
+    color: #f3f2ff;
+}
+.ref:nth-child(3)
+{
+    margin-left: 0;
+}
+.sous-liste
+{
+    position: relative;
+    top: -2px;
+    display: none;
+    left: 30px;
+}
+.ref-sous-liste
+{
+    list-style-type: none;
+    text-align: center;
+    padding: 0 10px;
+    background-color: #f3f2ff;
+    border-bottom: 0,5px solid #857dff ;
+    color: #857dff ;
+    
+}
+.ref-sous-liste:hover
+{
+    background-color: #B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+.ref:hover > ul
+{
+display: block;
+}
+.ref-liste .ref
+{
+    border: 1px solid transparent;
+    margin: 5px;  
+    padding: 2px 5px;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    transition: 1s ;/*Une transition de 1s entre les diffentes modifications de propriété CSS*/
+    
+}
+.ref-liste .ref .cibleP
+{
+    color: #f3f2ff;
+    padding: 1px 10px;
+    text-transform: uppercase
+}
+.ref-liste .ref .cibleP:hover
+{
+    background-color:#B4BAFF;
+
+}
+.ref-liste .ref .cibleP:hover
+{
+    color: #ffebd8;
+    text-decoration: underline;
+}
+#Active
+{
+    background-color:#B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+
+.europe-navbar
+{
+    height: 100rem;
+    width: 110px;
+    background-color: #ffebd8;
+}
+.menu-europe
+{
+    list-style: none;
+    display: block;
+    float: left;
+    margin: 180px 0;
+    padding: 40PX 10px;
+}
+.menu-europe .europe
+{
+    padding: 60px 0;
+}
+body
+{
+   
+    height: 100%;
+    background-size: cover ;
+    background-position: center;
+  
+   
+}
+.banniere
+{
+    display: block;
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url(https://i.pinimg.com/564x/f8/d7/07/f8d707d943f11cd5944ef8a729702cdd.jpg);
+    background-size: cover ;
+    background-position: center;
+   
+   
+}
+/*notre cube et son background*/
+.cube-container
+{
+    height: 200px;
+    width: 200px;
+    perspective: 1000px;
+    padding: 180px 10% ;
+    position: absolute;
+  
+}
+.cube
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    animation: spin 15s infinite linear;
+
+}
+.face
+{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+.top
+{
+
+     background-color: #857dff;
+     transform: rotateX(90deg) translateZ(100px);
+     background-image: url(https://i.pinimg.com/474x/e1/29/31/e1293130633690ba6750ebe04ec58087.jpg);
+     background-size: cover;
+     background-position: center;
+}
+.bottom
+{
+    background-color: #857dff;
+    transform: rotateX(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/97/92/74/979274645a4686f390ca6b255199f126.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.right
+{
+    background-color: #857dff;
+    transform: rotateY(90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/65/3b/e4/653be4b4051fe54cadaaeb8dffb26358.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.left
+{
+    transform: rotateY(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/cf/0d/2f/cf0d2ff2e891aef049b4f17b2efd8f71.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.front
+{
+    font-size: 19px;
+    text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #857dff;
+    transform: rotateX(0deg) translateZ(100px);
+    color: #f3f2ff;
+    text-decoration: underline #ffebd8;
+}
+.back
+{
+    background-color: #857dff;
+    transform: rotateX(-180deg) translateZ(100px);
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+@keyframes spin/*pour animé la rotation*/
+{
+    from{
+        transform: rotateX(0deg) rotateY(0deg) ;
+    }
+    to{
+        transform: rotateX(360deg) rotateY(360deg);
+    }
+}
+/*fin cube*/
+.titre
+{
+   padding: 15% 5%;
+    float: right;
+    color: #f3f2ff;
+}
+.h1
+{
+    font-size: 70px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.h2
+{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p
+{
+    font-size: 20px;
+}
+.em
+{
+    font-size: 80px;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline #B4BAFF;
+}
+.contenu
+{
+    background-color: #f3f2ff;
+    height: 100%;
+}
+.mini-bimou
+{
+
+display: flex;
+justify-content: space-between;
+
+
+}
+.bimou h3
+{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: #ffebd8 ;
+}
+.bimou h3 a
+{
+    color: #f3f2ff;
+}
+.bimou h3 a:hover
+{
+    color: #ffd5ba;
+}
+.bimou
+{
+    margin-top: 3%;
+    flex-basis: 31%;
+    background-color: #B4BAFF;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0,5s;
+    color: white;
+}
+.bimou:hover
+{
+    /*box-shadow:0 0 20px 0px rgba(0,0,0,0,2);*/
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.Geographie-titre
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0;
+
+}
+#geographie-Europe
+{
+   transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+.geographie-contenu
+{
+    position: relative;
+    width: 100%;
+    padding: 10% 0;
+}
+.circle
+{
+    position: relative;
+    overflow:hidden;
+    
+
+}
+.circle.img1
+{
+    width: 500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img1 img
+{
+    width:500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.circle.img2
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img2 img
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.geographie-contenu h2
+{
+font-size: 2rem;
+margin-bottom: 10px;
+color: red;
+text-align: center;
+}
+.geographie-contenu .carteback em
+{
+    font-size: 60px;
+    text-decoration: underline red solid;
+}
+#Histoire-Europe
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+#Apperçue-Europe
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+/*box apperçue*/
+.style
+{
+    margin-top: 5%;
+    display: inline-block;   
+}
+.style:hover
+{
+    cursor: pointer;
+}
+.monument
+{
+    display:block;
+    margin-left: 5%;
+    padding: 0px 5px 10px 5px;
+    
+}
+.cardcontainer
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+    grid-gap: 20px;
+    margin: 80px 0px;
+    
+    
+}
+.cardwrapper
+{
+    position: relative;
+    height: 350px;
+    perspective: 2000px;/*il s'agit d'une distance de 2000px qui vas séparer notre carte de notre ecran afin de pouvoir y insérer ce que nous voulons. dans notre cas cela nous permettra de pouvoir la retourner sans utilisé l'espace des autres cartes */
+    perspective-origin: top;
+}
+.cardwrapper:hover .carte
+{
+transform: rotateY(180deg);
+transition: 2s cubic-bezier(0.86, 0, 0.07, 1);
+    
+}
+.carte
+{
+    position: relative;
+    height: 100%;
+    transform-style: preserve-3d;
+    
+    font-weight: bold;
+    color: #B4BAFF;
+    display:flex;
+}
+
+.cartefront,.carteback
+{
+    position: absolute;
+    height: 100%;
+    width: 60%;
+    padding: 55px;
+    border-radius: 8px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;/*pour chromme et safari*/
+   
+    
+
+}
+.cartefront
+{
+   
+    background-size: cover;
+}
+.carteback
+{
+    background-color: #ffebd8;
+    transform: rotateY(180deg);
+   text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
