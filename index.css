@@ -116,7 +116,7 @@ display: block;
 
 body
 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url(Image/New.jpeg) ;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url(New.jpeg) ;
     height: 100%;
     background-size: cover ;
     background-position: center;
@@ -140,25 +140,25 @@ body
 {
     position: fixed;
     display: block;
-    align-items: center;
+    margin: auto;
   
 }
 h1
 {
     color: #ffd5ba;
     font-size: 45px;
+    display: block;
+    text-align: center;
+    margin: auto;
 }
 h3
 {
     color: #ffd5ba;
     font-size: 30px;
-    padding-left: 60px;
+    display: block;
+    text-align: center;
 }
-h5  
-{
-color: #f3f2ff;
-font-size: 20px;
-}
+
 .style
 {
     margin-top: 5%;
