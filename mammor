@@ -1,0 +1,3532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="asie.css">
+    <title>Asie</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <span>G</span>uide
+            </a>
+        </div>
+        <nav>
+           <ul class="ref-liste">
+            <li class="ref" >
+                <a href="index.html" class="cibleP">accueil</a>
+            </li>
+            <li class="ref">
+                <a href="Europe.html" class="cibleP" >
+                    Europe
+                </a>
+                    <span>&#9660;</span>
+                    <ul class="sous-liste">
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Géographie</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Histoire</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Aperçue</a>
+                        </li>
+                    </ul>
+                </a>
+                
+            </li>
+            <li class="ref">
+                <a href="asie.html" class="cibleP" id="Active" > 
+                    Asie
+                </a>
+            </li>
+            <li class="ref">
+                <a href="amerique.html" class="cibleP">
+                    Amerique
+    
+                </a> 
+                <span>&#9660;</span>
+                    <ul class="sous-liste">
+                        <li class="ref-sous-liste">
+                            <a href="#geographie-Amerique">Géographie</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="#Histoire-Amerique">Histoire</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="#Apperçue-Amerique">Apperçue</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="ref">
+                <a href="afrique.html" class="cibleP">
+                    Afrique
+                </a>
+                <span>&#9660;</span>
+                <ul class="sous-liste">
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Géographie</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Histoire</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Apperçue</a>
+                    </li>
+                </ul>
+            </li>
+           </ul>
+        </nav>
+        
+    </header> 
+   <div class="banniere">
+    <div class="cube-container">
+        <div class="cube">
+          <div class="face front">
+            <h3>Asie</h3>
+          </div>
+          <div class="face back"></div>
+          <div class="face right"></div>
+          <div class="face left"></div>
+          <div class="face top"></div>
+          <div class="face bottom"></div>
+        </div>
+    </div>
+    <div class="titre">
+        <h1 class="h1">
+            Asie
+        </h1>
+        <p class="p">Vous aimez voyagez, vous etes passionner d'histoire,<br> <span>Punjab</span> est votre destination de reve dans ce continent.</p>
+        <h2 class="h2">
+            Punjab
+        </h2>
+        <p class="p">direction: <em class="em">Harmandir Sahib <br> ou<br>Le Temple d'Or </em></p>
+
+    </div>
+   </div>
+   <div class="contenu"> 
+       <div class="mini-bimou">
+           <div class="bimou">
+              <h3><a href="#geographie-Asie">Géographie</a></h3>
+              <p>Dans cet rubrique nous vous presenterons la particularité géographique de la ville de Punjab dans ce continent Asiatique.</p>
+           </div> 
+           <div class="bimou">
+             <h3><a href="#Histoire-Asie">Histoire</a></h3>
+             <p>Dans cet rubrique nous vous presenterons l'histoire derriere ce site historique: <em>L'Harmandir Sahib</em> .</p>
+           </div> 
+         <div class="bimou">
+             <h3><a href="#Apperçue-Asie">Apperçue</a></h3>
+             <p>Dans cet rubrique nous vous presenterons <em>L'Harmandir Sahib ou le Temple d'or</em>,une representation de cette édifice, des photos et vidéo.</p>
+         </div> 
+       </div>
+       <div class="Geographie">
+          <div class="Geographie-titre">
+              <h1 id="geographie-Asie">
+                  Geographie
+              </h1>
+           </div>
+          <div class="geographie-contenu">
+                <div class="circle img1">
+                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Punjab_1909.jpg/330px-Punjab_1909.jpg" alt=""> 
+                </div>
+                <div class="circle img2">
+                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maharaj_Ranjit_Singh.jpg/248px-Maharaj_Ranjit_Singh.jpg" alt=""> 
+               </div>
+              <div>
+                   <h2>
+                      un endroit à visiter
+                   </h2>
+                   <p>    
+                    La définition géographique du terme « Pendjab » a changé au fil du temps. Dans l’Empire moghol du 16ème siècle, il se référait à une zone relativement plus petite entre les rivières Indus et Sutlej. [138][139]
+
+                    Empire sikh
+                    
+                    Carte montrant l’empire sikh du Pendjabi.
+                    L’empire sikh s’étendait sur un total de plus de 200 000 milles carrés (520 000 km2) à son zénith. [140][141][142]
+                    
+                    Le Pendjab était une région à cheval sur l’Inde et l’empire afghan Durrani. Les divisions politiques modernes suivantes composaient la région historique du Pendjab pendant l’Empire sikh:
+                    
+                    Région du Pendjab, à Mithankot au sud
+                    Pendjab, Pakistan, à l’exclusion de l’État de Bahawalpur
+                    Pendjab, Inde, au sud des zones situées juste de l’autre côté de la rivière Sutlej
+                    Himachal Pradesh, Inde, au sud des zones situées juste de l’autre côté de la rivière Sutlej
+                    Division du Jammu, Jammu-et-Cachemire, Inde et Pakistan (1808-1846)
+                    Cachemire, du 5 juillet 1819 au 15 mars 1846, Inde/Pakistan/Chine[143],[144]
+                    Vallée du Cachemire, Inde de 1819 à 1846
+                    Gilgit, Gilgit-Baltistan, Pakistan, de 1842 à 1846.
+                    Ladakh, Inde 1834-1846[145],[146]
+                    Col de Khyber, Pakistan/Afghanistan[147]
+                    Peshawar, Pakistan[148] (prise en 1818, reprise en 1834)
+                    Khyber Pakhtunkhwa et les zones tribales sous administration fédérale, Pakistan (documenté à partir de Hazara (pris en 1818, de nouveau en 1836 à Bannu)[149]
+                    Parties du Tibet occidental,[150] Chine (brièvement en 1841, à Taklakot),[151]
+                    Après la mort de Ranjit Singh en 1839, l’empire fut gravement affaibli par des divisions internes et une mauvaise gestion politique. Cette occasion a été utilisée par la Compagnie des Indes orientales pour lancer les première et deuxième guerres anglo-sikhs. Le pays a finalement été annexé et dissous à la fin de la deuxième guerre anglo-sikhe en 1849 dans des États princiers séparés et la province du Pendjab. Finalement, un poste de lieutenant-gouverneur a été formé à Lahore en tant que représentant direct de la Couronne. [131]: 221
+                    
+                    Pendjab (Inde britannique)
+                    Voir aussi : Province du Pendjab (Inde britannique)
+                    En Inde britannique, jusqu’à la partition de l’Inde en 1947, la province du Pendjab était géographiquement une étendue triangulaire de pays dont le fleuve Indus et son affluent le Sutlej formaient les deux côtés jusqu’à leur confluence, la base du triangle au nord étant la chaîne de l’Himalaya inférieur entre ces deux rivières. De plus, la province, telle qu’elle était constituée sous la domination britannique, comprenait également une vaste étendue à l’extérieur de ces limites. Le long de la frontière nord, les chaînes himalayennes le séparent du Cachemire et du Tibet. À l’ouest, il a été séparé de la province de la frontière du Nord-Ouest par l’Indus, jusqu’à ce qu’il atteigne la frontière du district de Dera Ghazi Khan, qui a été divisé du Baloutchistan par la chaîne de Sulaiman. Au sud se trouvaient le Sindh et le Rajputana, tandis qu’à l’est, les rivières Jumna et Tons le séparaient des Provinces-Unies. [152] Au total, le Pendjab avait une superficie d’environ 357 000 km carrés à peu près la même taille que l’Allemagne moderne, étant l’une des plus grandes provinces du Raj britannique.
+                    
+                    
+                    Carte de la province du Pendjab (Inde britannique)
+                    Il englobait les États indiens actuels du Pendjab, de l’Haryana, de Chandigarh, de Delhi et de certaines parties de l’Himachal Pradesh qui ont été fusionnés avec le Pendjab par les Britanniques à des fins administratives (mais à l’exclusion des anciens États princiers qui ont ensuite été combinés dans l’Union des États de Patiala et du Pendjab oriental) et les régions pakistanaises du Pendjab, du Territoire de la capitale Islamabad et du Khyber Pakhtunkhwa.
+                    
+                    En 1901, les districts frontaliers au-delà de l’Indus ont été séparés du Pendjab et transformés en une nouvelle province: la Province de la Frontière du Nord-Ouest. Par la suite, le Pendjab a été divisé en quatre divisions géographiques naturelles par les fonctionnaires coloniaux sur les données du recensement décennal:[153]: 2 [154]: 4
+                    
+                    Division géographique ouest de la plaine indo-gangétique (y compris le district de Hisar, l’État de Loharu, le district de Rohtak, l’État de Dujana, le district de Gurgaon, l’État de Pataudi, Delhi, le district de Karnal, le district de Jalandhar, l’État de Kapurthala, le district de Ludhiana, l’État de Malerkotla, le district de Firozpur, l’État de Faridkot, l’État de Patiala , l’État de Jind, l’État de Nabha, le district de Lahore, le district d’Amritsar, le district de Gujranwala et le district de Sheikhupura);
+                    Division géographique de l’Himalaya (y compris l’État de Nahan, le district de Simla, les États de Simla Hill, le district de Kangra, l’État de Mandi, l’État de Suket et l’État de Chamba));
+                    Division géographique subhimalayenne (y compris le district d’Ambala, l’État de Kalsia, le district de Hoshiarpur, le district de Gurdaspur, le district de Sialkot, le district de Gujrat, le district de Jhelum, le district de Rawalpindi et le district d’Attock ;
+                    Division géographique de la zone sèche du nord-ouest (y compris le district de Montgomery, le district de Shahpur, le district de Mianwali, le district de Lyallpur, le district de Jhang, le district de Multan, l’État de Bahawalpur, le district de Muzaffargarh et le district de Dera Ghazi Khan).
+                    Partition du Pendjab britannique
+                    La lutte pour l’indépendance de l’Inde a été témoin d’intérêts concurrents et conflictuels au Pendjab. Les élites terriennes des communautés musulmane, hindoue et sikhe avaient loyalement collaboré avec les Britanniques depuis l’annexion, soutenu le Parti unioniste et étaient hostiles au mouvement indépendantiste dirigé par le Parti du Congrès. [155] Parmi la paysannerie et les classes moyennes urbaines, les hindous étaient les partisans les plus actifs du Congrès national, les sikhs affluaient vers le mouvement Akali tandis que les musulmans finissaient par soutenir la Ligue musulmane. [155]
+                    
+                    La partition du sous-continent ayant été décidée, des réunions spéciales des sections occidentale et orientale de l’Assemblée législative ont eu lieu le 23 juin 1947 pour décider si la province du Pendjab devait ou non être divisée. Après avoir voté des deux côtés, la partition a été décidée et l’Assemblée législative existante du Pendjab a également été divisée en Assemblée législative du Pendjab occidental et Assemblée législative du Pendjab oriental. Cette dernière Assemblée avant l’indépendance, a tenu sa dernière séance le 4 juillet 1947. [156]
+                    
+                    Grandes villes
+                    Article détaillé : Liste des villes de la région du Pendjab par population.
+                    Historiquement, Lahore a été la capitale de la région du Pendjab et continue d’être la ville la plus peuplée de la région, avec une population de 11 millions d’habitants pour la ville proprement dite. Faisalabad est la 2ème ville la plus peuplée et le plus grand centre industriel de cette région. Les autres grandes villes sont Rawalpindi, Gujranwala, Multan, Ludhiana, Amritsar, Jalandhar et Chandigarh sont les autres villes du Pendjab avec une population de plus d’un million d’habitants.
+                      C'est dans ce magnifique lieu que l'on retrouve notre site historique <br><em>L'Harmandir Sahib</em> 
+                   </p> 
+              </div>
+           </div>
+       </div>
+       <div class="Histoire">
+          <div class="Geographie-titre">
+               <h1 id="Histoire-Asie">
+                  Histoire
+               </h1>
+          </div>
+           <div class="geographie-contenu">
+              <div class="circle img1">
+                 <img src="https://i.pinimg.com/474x/0f/08/35/0f0835b2b8551419206f662158788448.jpg" alt=""> 
+              </div>
+              <div class="circle img2">
+                 <img src="https://i.pinimg.com/474x/20/55/8e/20558ec8105d04e67a53138e19460185.jpg" alt=""> 
+             </div>
+              <div>
+                   <h2>
+                     Le temple d'Or
+                   </h2>
+                   <p>
+                    Le temple d'Or est le nom informel du Harmandir Sahib (pendjabi : ਹਰਿਮੰਦਰ ਸਾਹਿਬ signifiant « l'Illustre Temple de Dieu »), l'édifice le plus sacré des sikhs, situé au cœur de la ville d'Amritsar, au Punjab, dans le nord-ouest de l'Inde. Le nom de « temple d'Or » est dû à sa couverture dorée.
+                     <br>
+                     Sa construction a été ordonnée en 1601 par Gurû Arjan, 5e maître spirituel des sikhs à l’endroit même où le premier d'entre eux, Gurû Nanak, venait méditer.
+
+                     Il fut détruit lors de l'invasion afghane de 1758 et reconstruit huit ans plus tard.
+                     
+                     Le 5 juin 1984, le temple fut le théâtre d'une opération militaire ordonnée par la première ministre indienne Indira Gandhi dans le but de déloger les indépendantistes sikhs qui s'y étaient retranchés. Ce massacre fit officiellement 84 tués et 248 blessés parmi les soldats assaillants, tandis qu'on dénombrait parmi les pèlerins 493 tués (dont 100 femmes et 75 enfants) et 86 blessés. La violation de leur lieu saint fut considérée comme une insulte majeure par certains sikhs. Le massacre eut pour conséquence l'assassinat d'Indira Gandhi quatre mois plus tard par ses propres gardes du corps, eux-mêmes sikhs.
+                     
+                     Le temple, de nouveau incendié durant l'opération, a été reconstruit.
+                   </p>
+            </div>
+         </div>
+       </div>
+       <div class="Apperçue">
+           <div class="Geographie-titre">
+               <h1 id="Apperçue-Asie">
+                  Apperçue
+               </h1>
+           </div>
+           <div class="geographie-contenu">
+               <div class="media">
+                    <h2>L'Harmandir Sahib en une Vidéo</h2>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/Yzr_8nY9fz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/564x/6b/22/7c/6b227c3ac576cf6bb69be9510bba3d4f.jpg);background-size: cover">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Monment de priere dans le temple</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Maharaj_Ranjit_Singh.jpg/248px-Maharaj_Ranjit_Singh.jpg);background-size: cover">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Ranjit Singh, fondateur de l’Empire sikh.</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/474x/29/89/47/2989470f3a0ea1b41959b5ab885b8110.jpg); background-size: cover;">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Les fetes Sikh</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+           </div>    
+       </div>
+  </div> 
+</body>
+</html>
+*
+{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    cursor: pointer;
+}
+header
+{
+    background-color: #857dff;
+    
+    width: 100%;
+    height: 100px;
+    
+}
+.logo a
+{
+    color: #f3f2ff;
+    padding: 15px 10px;
+    border: 1px solid #ffebd8;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+    text-transform: uppercase;/*Magiscule*/
+    text-shadow: black;
+}
+.logo span
+{
+    color:#ffd5ba;
+    font-size: 30px;
+    
+}
+.ref-liste
+{
+    list-style: none;
+    display: flex;
+    float: right;
+    margin-top: 10px;
+}
+.ref
+{
+    cursor: pointer;
+}
+.ref span
+{
+    font-size: 10px;
+    color: #f3f2ff;
+}
+.ref:nth-child(3)
+{
+    margin-left: 0;
+}
+.sous-liste
+{
+    position: relative;
+    top: -2px;
+    display: none;
+    left: 30px;
+}
+.ref-sous-liste
+{
+    list-style-type: none;
+    text-align: center;
+    padding: 0 10px;
+    background-color: #f3f2ff;
+    border-bottom: 0,5px solid #857dff ;
+    color: #857dff ;
+    
+}
+.ref-sous-liste:hover
+{
+    background-color: #B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+.ref:hover > ul
+{
+display: block;
+}
+.ref-liste .ref
+{
+    border: 1px solid transparent;
+    margin: 5px;  
+    padding: 2px 5px;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    transition: 1s ;/*Une transition de 1s entre les diffentes modifications de propriété CSS*/
+    
+}
+.ref-liste .ref .cibleP
+{
+    color: #f3f2ff;
+    padding: 1px 10px;
+    text-transform: uppercase
+}
+.ref-liste .ref .cibleP:hover
+{
+    background-color:#B4BAFF;
+
+}
+.ref-liste .ref .cibleP:hover
+{
+    color: #ffebd8;
+    text-decoration: underline;
+}
+#Active
+{
+    background-color:#B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+
+.europe-navbar
+{
+    height: 100rem;
+    width: 110px;
+    background-color: #ffebd8;
+}
+.menu-europe
+{
+    list-style: none;
+    display: block;
+    float: left;
+    margin: 180px 0;
+    padding: 40PX 10px;
+}
+.menu-europe .europe
+{
+    padding: 60px 0;
+}
+body
+{
+   
+    height: 100%;
+    background-size: cover ;
+    background-position: center;
+  
+   
+}
+.banniere
+{
+    display: block;
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url(https://i.pinimg.com/564x/f8/d7/07/f8d707d943f11cd5944ef8a729702cdd.jpg);
+    background-size: cover ;
+    background-position: center;
+   
+   
+}
+/*notre cube et son background*/
+.cube-container
+{
+    height: 200px;
+    width: 200px;
+    perspective: 1000px;
+    padding: 180px 10% ;
+    position: absolute;
+  
+}
+.cube
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    animation: spin 15s infinite linear;
+
+}
+.face
+{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+.top
+{
+
+     background-color: #857dff;
+     transform: rotateX(90deg) translateZ(100px);
+     background-image: url(https://i.pinimg.com/474x/e1/29/31/e1293130633690ba6750ebe04ec58087.jpg);
+     background-size: cover;
+     background-position: center;
+}
+.bottom
+{
+    background-color: #857dff;
+    transform: rotateX(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/97/92/74/979274645a4686f390ca6b255199f126.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.right
+{
+    background-color: #857dff;
+    transform: rotateY(90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/65/3b/e4/653be4b4051fe54cadaaeb8dffb26358.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.left
+{
+    transform: rotateY(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/cf/0d/2f/cf0d2ff2e891aef049b4f17b2efd8f71.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.front
+{
+    font-size: 19px;
+    text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #857dff;
+    transform: rotateX(0deg) translateZ(100px);
+    color: #f3f2ff;
+    text-decoration: underline #ffebd8;
+}
+.back
+{
+    background-color: #857dff;
+    transform: rotateX(-180deg) translateZ(100px);
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+@keyframes spin/*pour animé la rotation*/
+{
+    from{
+        transform: rotateX(0deg) rotateY(0deg) ;
+    }
+    to{
+        transform: rotateX(360deg) rotateY(360deg);
+    }
+}
+/*fin cube*/
+.titre
+{
+   padding: 15% 5%;
+    float: right;
+    color: #f3f2ff;
+}
+.h1
+{
+    font-size: 70px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.h2
+{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p
+{
+    font-size: 20px;
+}
+.em
+{
+    font-size: 80px;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline #B4BAFF;
+}
+.contenu
+{
+    background-color: #f3f2ff;
+    height: 100%;
+}
+.mini-bimou
+{
+
+display: flex;
+justify-content: space-between;
+
+
+}
+.bimou h3
+{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: #ffebd8 ;
+}
+.bimou h3 a
+{
+    color: #f3f2ff;
+}
+.bimou h3 a:hover
+{
+    color: #ffd5ba;
+}
+.bimou
+{
+    margin-top: 3%;
+    flex-basis: 31%;
+    background-color: #B4BAFF;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0,5s;
+    color: white;
+}
+.bimou:hover
+{
+    /*box-shadow:0 0 20px 0px rgba(0,0,0,0,2);*/
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.Geographie-titre
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0;
+
+}
+#geographie-Europe
+{
+   transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+.geographie-contenu
+{
+    position: relative;
+    width: 100%;
+    padding: 10% 0;
+}
+.circle
+{
+    position: relative;
+    overflow:hidden;
+    
+
+}
+.circle.img1
+{
+    width: 500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img1 img
+{
+    width:500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.circle.img2
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img2 img
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.geographie-contenu h2
+{
+font-size: 2rem;
+margin-bottom: 10px;
+color: red;
+text-align: center;
+}
+.geographie-contenu .carteback em
+{
+    font-size: 60px;
+    text-decoration: underline red solid;
+}
+#Histoire-Europe
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+#Apperçue-Europe
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+/*box apperçue*/
+.style
+{
+    margin-top: 5%;
+    display: inline-block;   
+}
+.style:hover
+{
+    cursor: pointer;
+}
+.monument
+{
+    display:block;
+    margin-left: 5%;
+    padding: 0px 5px 10px 5px;
+    
+}
+.cardcontainer
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+    grid-gap: 20px;
+    margin: 80px 0px;
+    
+    
+}
+.cardwrapper
+{
+    position: relative;
+    height: 350px;
+    perspective: 2000px;/*il s'agit d'une distance de 2000px qui vas séparer notre carte de notre ecran afin de pouvoir y insérer ce que nous voulons. dans notre cas cela nous permettra de pouvoir la retourner sans utilisé l'espace des autres cartes */
+    perspective-origin: top;
+}
+.cardwrapper:hover .carte
+{
+transform: rotateY(180deg);
+transition: 2s cubic-bezier(0.86, 0, 0.07, 1);
+    
+}
+.carte
+{
+    position: relative;
+    height: 100%;
+    transform-style: preserve-3d;
+    
+    font-weight: bold;
+    color: #B4BAFF;
+    display:flex;
+}
+
+.cartefront,.carteback
+{
+    position: absolute;
+    height: 100%;
+    width: 60%;
+    padding: 55px;
+    border-radius: 8px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;/*pour chromme et safari*/
+   
+    
+
+}
+.cartefront
+{
+   
+    background-size: cover;
+}
+.carteback
+{
+    background-color: #ffebd8;
+    transform: rotateY(180deg);
+   text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="europe.css">
+    <title>Europe</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <span>G</span>uide
+            </a>
+        </div>
+        <nav>
+           <ul class="ref-liste">
+            <li class="ref" >
+                <a href="index.html" class="cibleP">accueil</a>
+            </li>
+            <li class="ref">
+                <a href="europe.html" class="cibleP" id="Active" >
+                    Europe
+                </a>
+                
+            </li>
+            <li class="ref">
+                <a href="asie.html" class="cibleP"> 
+                    Asie
+                </a>
+                <span>&#9660;</span>
+                <ul class="sous-liste">
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Géographie</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Histoire</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Apperçue</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="ref">
+                <a href="amerique.html" class="cibleP">
+                    Amerique
+    
+                </a> 
+                    <span>&#9660;</span>
+                    <ul class="sous-liste">
+                        <li class="ref-sous-liste">
+                            <a href="amerique.html">Géographie</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="amerique.html">Histoire</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="amerique.html">Apperçue</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="ref">
+                <a href="afrique.html" class="cibleP">
+                    Afrique
+                </a>
+                <span>&#9660;</span>
+                <ul class="sous-liste">
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Géographie</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Histoire</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Apperçue</a>
+                    </li>
+                </ul>
+            </li>
+           </ul>
+        </nav>
+        
+    </header> 
+   <div class="banniere">
+    <div class="cube-container">
+        <div class="cube">
+          <div class="face front">
+            <h3>Europe</h3>
+          </div>
+          <div class="face back"></div>
+          <div class="face right"></div>
+          <div class="face left"></div>
+          <div class="face top"></div>
+          <div class="face bottom"></div>
+        </div>
+    </div>
+    <div class="titre">
+        <h1 class="h1">
+            Europe
+        </h1>
+        <p class="p">Vous aimez voyagez, vous etes passionner d'histoire,<br> <span>Amsterdam</span> est votre destination de reve dans ce continent.</p>
+        <h2 class="h2">
+            Amsterdam
+        </h2>
+        <p class="p">direction: <em class="em">La maison <br>d'hanne Franc</em></p>
+
+    </div>
+   </div>
+   <div class="contenu"> 
+       <div class="mini-bimou">
+           <div class="bimou">
+              <h3><a href="#geographie-Europe">Géographie</a></h3>
+              <p>Dans cet rubrique nous vous presenterons la particularité géographique de la ville d'Amsterdam dans ce continent Européen.</p>
+           </div> 
+           <div class="bimou">
+             <h3><a href="#Histoire-Europe">Histoire</a></h3>
+             <p>Dans cet rubrique nous vous presenterons l'histoire derriere ce site historique: <em>La Maison d'Hanne Franc</em> .</p>
+           </div> 
+         <div class="bimou">
+             <h3><a href="#Apperçue-Europe">Apperçue</a></h3>
+             <p>Dans cet rubrique nous vous presenterons <em>La Maison d'Hanne Franc</em>,une representation de cette édifice, des photos et vidéo.</p>
+         </div> 
+       </div>
+       <div class="Geographie">
+          <div class="Geographie-titre">
+              <h1 id="geographie-Europe">
+                  Geographie
+              </h1>
+           </div>
+          <div class="geographie-contenu">
+                <div class="circle img1">
+                   <img src="https://i.pinimg.com/474x/84/98/5f/84985fd2c0ab5998e4d8b417fa9864ee.jpg" alt=""> 
+                </div>
+                <div class="circle img2">
+                   <img src="https://i.pinimg.com/564x/26/d7/51/26d751c0d9bddac12225c3af2d215df7.jpg" alt=""> 
+               </div>
+              <div>
+                   <h2>
+                      un endroit à visiter
+                   </h2>
+                   <p>    
+                     Située à l'ouest des Pays-Bas au sein du continent Européen, Amsterdam fait partie de la province de Hollande-Septentrionale et est située à proximité immédiate de celles d'Utrecht et du Flevoland. Le fleuve Amstel vient se jeter dans l'IJ et est intégrée à un réseau de canaux qui parsèment la ville. Cette dernière est située à deux mètres au-dessus du niveau de la mer91. Les terres autour de la ville sont plates et formées de grands polders. Au sud-ouest de la ville se trouve le bois d'Amsterdam, situé pour la plupart de sa superficie dans la commune d'Amstelveen. Enfin, la ville est reliée à la mer du Nord par le long canal de la Mer du Nord qui dessert son port.
+    
+                     La ville d'Amsterdam a une superficie totale de 219,33 kilomètres carrés, dont 164,89 km2 de terres92. La densité de population absolue est donc de 3 653 habitants par km2, mais est en réalité de 4 848 hab./km2 sur la base des terres habitables, avec une offre en logements de 2 408 foyers par kilomètre carré92. Les parcs et les réserves naturelles forment environ 14 % de la superficie de la ville. Les espaces verts et récréatifs (parcs, jardins, terrains de sport) représentent à eux seuls 11,3 % de la surface totale, tandis que les bois et forêts en représentent 2,3 %93. Son paysage et sa zone geographique en fait dejà un lieu parfait pour du tourisme. Deplus, pour les passionner d'Histoire,c'est dans ce magnifique lieu que l'on retrouve notre site historique <br><em>La maison d'Hanne Franc</em> 
+                   </p> 
+              </div>
+           </div>
+       </div>
+       <div class="Histoire">
+          <div class="Geographie-titre">
+               <h1 id="Histoire-Europe">
+                  Histoire
+               </h1>
+          </div>
+           <div class="geographie-contenu">
+              <div class="circle img1">
+                 <img src="https://i.pinimg.com/474x/7a/45/87/7a4587fbf94cbe9412c1955324b226ae.jpg" alt=""> 
+              </div>
+              <div class="circle img2">
+                 <img src="https://i.pinimg.com/474x/e3/e7/a7/e3e7a74449b02411ddc1542de65d8176.jpg" alt=""> 
+             </div>
+              <div>
+                   <h2>
+                     La maison d'Hanne Franc
+                   </h2>
+                   <p>
+                      La Maison Anne Frank est un musée consacré à la jeune fille écrivain juive de la Seconde Guerre mondiale Anne Frank, situé à Amsterdam, aux Pays-Bas, sur les bords du Prinsengracht, l'un des principaux canaux de la ville.
+                      Elle, sa famille et quatre autres personnes se sont cachées de la persécution nazie dans des chambres à l'arrière de la maison attenante, sise au no 263 Prinsengracht, siège de la société Opekta (laquelle était la propriété d'Otto, le père d'Anne), dont l'entrée était cachée par un passage secret.
+                      Destiné à la préservation de la cachette — connue en néerlandais comme 't Achterhuis (« L'annexe secrète ») — et exposant la vie et l'époque d'Anne Frank, le musée est aussi un espace de mise en évidence de toutes les formes de persécution et de discrimination. <br>
+                      En effet, en 1933, la famille Frank quitte l’Allemagne Nazie pour venir s’installer à Amsterdam. Otto Frank y ouvre une boutique d’épices au 263 Prinsengracht. Quand les Pays-Bas sont envahis par l’Allemagne en 1940, les mesures de discrimination envers les Juifs se multiplient. Le 6 juillet 1942, Otto et Edith Frank décident d’entrer dans la clandestinité. Avec leurs filles Anne et Margot, ainsi qu’une autre famille, ils se réfugient dans la maison se trouvant derrière l’entreprise. Les employés de bureau aident au ravitaillement tandis que les magasiniers eux ne sont pas au courant.
+                      La maison d’Anne Frank Amsterdam journalAnne a 13 ans. On lui offre un cahier dont elle fera son Journal. Publié en juin 1947 et traduit dans plus de 60 langues, le journal d’Anne Frank raconte les 25 mois passés dans la clandestinité, dans cette maison dont l’entrée était dissimulée derrière une bibliothèque.
+                      Après l’arrestation de la famille en août 1944, l’occupant a vidé les lieux. Aujourd’hui, la maison d’Anne Frank est restée dans l’état où elle était, c’est-à-dire vide. Ici, ce ne sont pas les meubles ou les objets de décorations qui occupent les lieux, mais l’âme de l’endroit qui y prend toute la place. Malgré le dépouillement extrême, on suffoque. <br>
+                      Le musée de la maison d'Anne Frank est ouvert de 9h00 à 22h00 tous les jours. Dans ce musée, on passe de pièces en pièces. L'histoire de la famille Frank est racontée à travers des extraits du journal, des documents historiques, objets, photos, et vidéos. Aux murs de la chambre à coucher d’Anne, quelques posters et cartes postales nous rappellent que cette maison abritait la peur, mais aussi la vie et une part de rêve.
+                      La dernière pièce du musée abrite l’original du journal. Dans un témoignage vidéo, le père d’Anne Frank, le seul de la famille à avoir survécu à la guerre, nous parle de la perte de ses enfants, du jour où son employée Miep Gies lui a confié les écrits d’Anne et de sa réaction à la lecture du journal.                    
+                      La visite du musée se termine par un espace interactif où, sur 15 écrans, le visiteur peut visiter la maison en 3D, écouter des témoignages, consulter des documents historiques, etc…
+                      Enfin, à la sortie, une vidéo sur grand écran vous invite à un débat interactif sur la liberté d’expression. A travers plusieurs sujets de débat, 21 voteurs sont amenés à définir la limite entre liberté d’expression et discrimation. Particulièrement éducatif et tellement d’actualité.
+                   </p>
+            </div>
+         </div>
+       </div>
+       <div class="Apperçue">
+           <div class="Geographie-titre">
+               <h1 id="Apperçue-Europe">
+                  Apperçue
+               </h1>
+           </div>
+           <div class="geographie-contenu">
+               <div class="media">
+                    <h2>La maison d'Hanne Franc en une Vidéo</h2>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/mgXS7uJoZvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/564x/78/e9/1d/78e91d0aea01fdc7d8c3ee5af31bb404.jpg);background-size: cover">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>La petite cachète avec des vivres</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/564x/e4/ff/49/e4ff49cf9e89f8359dee1423d5d56282.jpg);background-size: cover">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>La bibliothèque tournente servant de porte pour accéder a la cachette</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/474x/56/bc/1c/56bc1c316572cbc05016f587909ccf7b.jpg); background-size: cover;">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Le Journal d'hanne Franc</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+           </div>    
+       </div>
+  </div> 
+</body>
+</html>
+
+
+*
+{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    cursor: pointer;
+}
+header
+{
+    background-color: #857dff;
+    
+    width: 100%;
+    height: 100px;
+    position: fixed;
+}
+.logo a
+{
+    color: #f3f2ff;
+    padding: 15px 10px;
+    border: 1px solid #ffebd8;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+    text-transform: uppercase;/*Magiscule*/
+    text-shadow: black;
+}
+.logo span
+{
+    color:#ffd5ba;
+    font-size: 30px;
+    
+}
+.ref-liste
+{
+    list-style: none;
+    display: flex;
+    float: right;
+    margin-top: 10px;
+}
+.ref
+{
+    cursor: pointer;
+}
+.ref span
+{
+    font-size: 10px;
+    color: #f3f2ff;
+}
+.ref:nth-child(3)
+{
+    margin-left: 0;
+}
+.sous-liste
+{
+    position: relative;
+    top: -2px;
+    display: none;
+    left: 30px;
+}
+.ref-sous-liste
+{
+    list-style-type: none;
+    text-align: center;
+    padding: 0 10px;
+    background-color: #f3f2ff;
+    border-bottom: 0,5px solid #857dff ;
+    color: #857dff ;
+    
+}
+.ref-sous-liste:hover
+{
+    background-color: #B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+.ref:hover > ul
+{
+display: block;
+}
+.ref-liste .ref
+{
+    border: 1px solid transparent;
+    margin: 5px;  
+    padding: 2px 5px;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    transition: 1s ;/*Une transition de 1s entre les diffentes modifications de propriété CSS*/
+    
+}
+.ref-liste .ref .cibleP
+{
+    color: #f3f2ff;
+    padding: 1px 10px;
+    text-transform: uppercase
+}
+.ref-liste .ref .cibleP:hover
+{
+    background-color:#B4BAFF;
+
+}
+.ref-liste .ref .cibleP:hover
+{
+    color: #ffebd8;
+    text-decoration: underline;
+}
+#Active
+{
+    background-color:#B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+
+
+body
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url(New.jpeg) ;
+    height: 100%;
+    background-size: cover ;
+    background-position: center;
+   display: grid;
+   grid-template-columns: auto 1fr auto;
+   
+}
+.conteneur
+{
+    position: fixed absolute;
+}
+.banniere
+{ 
+   padding-top: 20%;
+  display: block;
+  padding-left: 350px;
+ justify-content: center;
+  
+}
+.titre
+{
+    position: fixed;
+    display: block;
+    align-items: center;
+  
+}
+h1
+{
+    color: #ffd5ba;
+    font-size: 45px;
+}
+h3
+{
+    color: #ffd5ba;
+    font-size: 30px;
+    padding-left: 60px;
+}
+h5  
+{
+color: #f3f2ff;
+font-size: 20px;
+}
+.style
+{
+    margin-top: 5%;
+    display: inline-block;
+   
+    
+}
+.monument
+{
+    display:block;
+    margin-left: 5%;
+    padding: 0px 5px 10px 5px;
+    
+}
+.cardcontainer
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    grid-gap: 20px;
+    margin: 80px 0px;
+    
+    
+}
+.cardwrapper
+{
+    position: relative;
+    height: 350px;
+    perspective: 2000px;/*il s'agit d'une distance de 2000px qui vas séparer notre carte de notre ecran afin de pouvoir y insérer ce que nous voulons. dans notre cas cela nous permettra de pouvoir la retourner sans utilisé l'espace des autres cartes */
+    perspective-origin: top;
+}
+.cardwrapper:hover .carte
+{
+transform: rotateY(180deg);
+transition: 2s cubic-bezier(0.86, 0, 0.07, 1);
+    
+}
+.carte
+{
+    position: relative;
+    height: 100%;
+    transform-style: preserve-3d;
+    
+    font-weight: bold;
+    color: #B4BAFF;
+    display:flex;
+}
+
+.cartefront,.carteback
+{
+    position: absolute;
+    height: 100%;
+    width: 60%;
+    padding: 55px;
+    border-radius: 8px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;/*pour chromme et safari*/
+   
+    
+
+}
+.cartefront
+{
+   
+    background-size: cover;
+}
+.carteback
+{
+    background-color: #ffebd8;
+    transform: rotateY(180deg);
+   text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Accueil.css">
+    <title>Accueil</title>
+</head>
+<body>
+   <header>
+    <div class="logo">
+        <a href="index.html">
+            <span>G</span>uide
+        </a>
+    </div>
+    <nav>
+       <ul class="ref-liste">
+        <li class="ref" >
+            <a href="index.html" id="Active" class="cibleP">accueil</a>
+        </li>
+        <li class="ref">
+            <a href="europe.html" class="cibleP">
+                Europe
+            </a>
+            <span>&#9660;</span>
+            <ul class="sous-liste">
+                <li class="ref-sous-liste">
+                    <a href="europe.html">Géographie</a>
+                </li>
+                <li class="ref-sous-liste">
+                    <a href="europe.html">Histoire</a>
+                </li>
+                <li class="ref-sous-liste">
+                    <a href="europe.html">aperçue</a>
+                </li>
+            </ul>
+        </li>
+        <li class="ref">
+            <a href="asie.html" class="cibleP"> 
+                Asie
+            </a>
+            <span>&#9660;</span>
+            <ul class="sous-liste">
+                <li class="ref-sous-liste">
+                    <a href="asie.html">Géographie</a>
+                </li>
+                <li class="ref-sous-liste">
+                    <a href="asie.html">Histoire</a>
+                </li>
+                <li class="ref-sous-liste">
+                    <a href="asie.html">Apperçue</a>
+                </li>
+            </ul>
+        </li>
+        <li class="ref">
+            <a href="amerique.html" class="cibleP">
+                Amerique
+
+            </a> 
+                <span>&#9660;</span>
+                <ul class="sous-liste">
+                    <li class="ref-sous-liste">
+                        <a href="amerique.html">Géographie</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="amerique.html">Histoire</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="amerique.html">Apperçue</a>
+                    </li>
+                </ul>
+        </li>
+        <li class="ref">
+            <a href="afrique.html" class="cibleP">
+                Afrique
+            </a>
+            <span>&#9660;</span>
+            <ul class="sous-liste">
+                <li class="ref-sous-liste">
+                    <a href="afrique.html">Géographie</a>
+                </li>
+                <li class="ref-sous-liste">
+                    <a href="afrique.html">Histoire</a>
+                </li>
+                <li class="ref-sous-liste">
+                    <a href="amerique.html">Apperçue</a>
+                </li>
+            </ul>
+        </li>
+       </ul>
+    </nav>
+   </header> 
+   <div class="conteneur">
+       <div class="banniere">
+           <div class="Titre">
+            <h1>HistoRama</h1>
+            <h3>Les hommes disparaissent, les édifices demeurent</h3>
+            <h5>Un continent une histoire</h5>
+           </div>
+       </div>
+       
+     <div class="style">   
+      <div class="monument">
+        <div class="cardcontainer">
+           <div class="cardwrapper">
+            <div class="carte">
+                <div class="cartefront" style="background-image: url(https://i.pinimg.com/474x/25/81/dd/2581dd51fc0c7684b0579342917312eb.jpg);">
+                    <img src="" alt="">
+                </div>
+                <div class="carteback">
+                    <h2>
+                       <a href="Europe.html"> <em>La maison d'hanne Franc</em></a>
+                     </h2>
+                     <p>
+
+                     </p>
+                 </div>
+             </div>
+           </div>
+        </div>
+      </div>
+     </div>   
+     <div class="style">   
+        <div class="monument">
+          <div class="cardcontainer">
+             <div class="cardwrapper">
+              <div class="carte">
+                  <div class="cartefront" style="background-image: url(https://i.pinimg.com/474x/8b/9d/e5/8b9de5055981ec05b88797f04b9fc9d5.jpg);">
+                      <img src="" alt="">
+                  </div>
+                  <div class="carteback">
+                      <h2>
+                        <a href="asie.html"> <em> Harmandir Sahib <br> Le Temple d'Or</em></a>
+                       </h2>
+                       <p>
+  
+                       </p>
+                   </div>
+               </div>
+             </div>
+          </div>
+        </div>
+       </div>   
+       <div class="style">   
+        <div class="monument">
+          <div class="cardcontainer">
+             <div class="cardwrapper">
+              <div class="carte">
+                  <div class="cartefront" style="background-image: url(https://i.pinimg.com/474x/64/3b/0e/643b0ebe61e56f2cf5bc3dc924df8c85.jpg);">
+                      <img src="" alt="">
+                  </div>
+                  <div class="carteback">
+                      <h2>
+                        <a href="afrique.html"> <em>La tour Hassan </em></a>
+                       </h2>
+                       <p>
+  
+                       </p>
+                   </div>
+               </div>
+             </div>
+          </div>
+        </div>
+       </div>   
+       <div class="style">   
+        <div class="monument">
+          <div class="cardcontainer">
+             <div class="cardwrapper">
+              <div class="carte">
+                  <div class="cartefront" style="background-image: url(https://i.pinimg.com/474x/9c/25/cc/9c25ccf646061fb2ca7f9c7d49368cfa.jpg);">
+                      <img src="" alt="">
+                  </div>
+                  <div class="carteback">
+                      <h2>
+                        <a href="amerique.html"> <em>Le Lincoln Memorial</em></a>
+                       </h2>
+                       <p>
+  
+                       </p>
+                   </div>
+               </div>
+             </div>
+          </div>
+        </div>
+       </div>    
+                
+   </div>
+  
+</body>
+</html>
+*
+{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    cursor: pointer;
+}
+header
+{
+    background-color: #857dff;
+    
+    width: 100%;
+    height: 100px;
+    
+}
+.logo a
+{
+    color: #f3f2ff;
+    padding: 15px 10px;
+    border: 1px solid #ffebd8;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+    text-transform: uppercase;/*Magiscule*/
+    text-shadow: black;
+}
+.logo span
+{
+    color:#ffd5ba;
+    font-size: 30px;
+    
+}
+.ref-liste
+{
+    list-style: none;
+    display: flex;
+    float: right;
+    margin-top: 10px;
+}
+.ref
+{
+    cursor: pointer;
+}
+.ref span
+{
+    font-size: 10px;
+    color: #f3f2ff;
+}
+.ref:nth-child(3)
+{
+    margin-left: 0;
+}
+.sous-liste
+{
+    position: relative;
+    top: -2px;
+    display: none;
+    left: 30px;
+}
+.ref-sous-liste
+{
+    list-style-type: none;
+    text-align: center;
+    padding: 0 10px;
+    background-color: #f3f2ff;
+    border-bottom: 0,5px solid #857dff ;
+    color: #857dff ;
+    
+}
+.ref-sous-liste:hover
+{
+    background-color: #B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+.ref:hover > ul
+{
+display: block;
+}
+.ref-liste .ref
+{
+    border: 1px solid transparent;
+    margin: 5px;  
+    padding: 2px 5px;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    transition: 1s ;/*Une transition de 1s entre les diffentes modifications de propriété CSS*/
+    
+}
+.ref-liste .ref .cibleP
+{
+    color: #f3f2ff;
+    padding: 1px 10px;
+    text-transform: uppercase
+}
+.ref-liste .ref .cibleP:hover
+{
+    background-color:#B4BAFF;
+
+}
+.ref-liste .ref .cibleP:hover
+{
+    color: #ffebd8;
+    text-decoration: underline;
+}
+#Active
+{
+    background-color:#B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+
+.europe-navbar
+{
+    height: 100rem;
+    width: 110px;
+    background-color: #ffebd8;
+}
+.menu-europe
+{
+    list-style: none;
+    display: block;
+    float: left;
+    margin: 180px 0;
+    padding: 40PX 10px;
+}
+.menu-europe .europe
+{
+    padding: 60px 0;
+}
+body
+{
+   
+    height: 100%;
+    background-size: cover ;
+    background-position: center;
+  
+   
+}
+.banniere
+{
+    display: block;
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url(https://i.pinimg.com/474x/ce/de/07/cede0794d3533a6542bd2674c88ed72d.jpg);
+    background-size: cover ;
+    background-position: center;
+   
+   
+}
+/*notre cube et son background*/
+.cube-container
+{
+    height: 200px;
+    width: 200px;
+    perspective: 1000px;
+    padding: 180px 10% ;
+    position: absolute;
+  
+}
+.cube
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    animation: spin 15s infinite linear;
+
+}
+.face
+{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+.top
+{
+
+     background-color: #857dff;
+     transform: rotateX(90deg) translateZ(100px);
+     background-image: url(https://i.pinimg.com/474x/9b/1c/90/9b1c90d03042426fea0f40b11f45dcc6.jpg);
+     background-size: cover;
+     background-position: center;
+}
+.bottom
+{
+    background-color: #857dff;
+    transform: rotateX(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/a9/cb/9f/a9cb9f69b4636d0e9b47c2f64114c85f.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.right
+{
+    background-color: #857dff;
+    transform: rotateY(90deg) translateZ(100px);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rabat_montage.jpg/420px-Rabat_montage.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.left
+{
+    transform: rotateY(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/0e/1c/1f/0e1c1f879a06d43a3b7a8c9a7949ba5f.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.front
+{
+    font-size: 19px;
+    text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #857dff;
+    transform: rotateX(0deg) translateZ(100px);
+    color: #f3f2ff;
+    text-decoration: underline #ffebd8;
+}
+.back
+{
+    background-color: #857dff;
+    transform: rotateX(-180deg) translateZ(100px);
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+@keyframes spin/*pour animé la rotation*/
+{
+    from{
+        transform: rotateX(0deg) rotateY(0deg) ;
+    }
+    to{
+        transform: rotateX(360deg) rotateY(360deg);
+    }
+}
+/*fin cube*/
+.titre
+{
+   padding: 15% 5%;
+    float: right;
+    color: #f3f2ff;
+}
+.h1
+{
+    font-size: 70px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.h2
+{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p
+{
+    font-size: 20px;
+}
+.em
+{
+    font-size: 80px;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline #B4BAFF;
+}
+.contenu
+{
+    background-color: #f3f2ff;
+    height: 100%;
+}
+.mini-bimou
+{
+
+display: flex;
+justify-content: space-between;
+
+
+}
+.bimou h3
+{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: #ffebd8 ;
+}
+.bimou h3 a
+{
+    color: #f3f2ff;
+}
+.bimou h3 a:hover
+{
+    color: #ffd5ba;
+}
+.bimou
+{
+    margin-top: 3%;
+    flex-basis: 31%;
+    background-color: #B4BAFF;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0,5s;
+    color: white;
+}
+.bimou:hover
+{
+    /*box-shadow:0 0 20px 0px rgba(0,0,0,0,2);*/
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.Geographie-titre
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0;
+
+}
+#geographie-Afrique
+{
+   transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+.geographie-contenu
+{
+    position: relative;
+    width: 100%;
+    padding: 10% 0;
+}
+.circle
+{
+    position: relative;
+    overflow:hidden;
+    
+
+}
+.circle.img1
+{
+    width: 500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img1 img
+{
+    width:500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.circle.img2
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img2 img
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.geographie-contenu h2
+{
+font-size: 2rem;
+margin-bottom: 10px;
+color: red;
+text-align: center;
+}
+.geographie-contenu .carteback em
+{
+    font-size: 60px;
+    text-decoration: underline red solid;
+}
+#Histoire-Afrique
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+#Apperçue-Afrique
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+/*box apperçue*/
+.style
+{
+    margin-top: 5%;
+    display: inline-block;   
+}
+.style:hover
+{
+    cursor: pointer;
+}
+.monument
+{
+    display:block;
+    margin-left: 5%;
+    padding: 0px 5px 10px 5px;
+    
+}
+.cardcontainer
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+    grid-gap: 20px;
+    margin: 80px 0px;
+    
+    
+}
+.cardwrapper
+{
+    position: relative;
+    height: 350px;
+    perspective: 2000px;/*il s'agit d'une distance de 2000px qui vas séparer notre carte de notre ecran afin de pouvoir y insérer ce que nous voulons. dans notre cas cela nous permettra de pouvoir la retourner sans utilisé l'espace des autres cartes */
+    perspective-origin: top;
+}
+.cardwrapper:hover .carte
+{
+transform: rotateY(180deg);
+transition: 2s cubic-bezier(0.86, 0, 0.07, 1);
+    
+}
+.carte
+{
+    position: relative;
+    height: 100%;
+    transform-style: preserve-3d;
+    
+    font-weight: bold;
+    color: #B4BAFF;
+    display:flex;
+}
+
+.cartefront,.carteback
+{
+    position: absolute;
+    height: 100%;
+    width: 60%;
+    padding: 55px;
+    border-radius: 8px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;/*pour chromme et safari*/
+   
+    
+
+}
+.cartefront
+{
+   
+    background-size: cover;
+}
+.carteback
+{
+    background-color: #ffebd8;
+    transform: rotateY(180deg);
+   text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="afrique.css">
+    <title>afrique</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <span>G</span>uide
+            </a>
+        </div>
+        <nav>
+           <ul class="ref-liste">
+            <li class="ref" >
+                <a href="index.html" class="cibleP">accueil</a>
+            </li>
+            <li class="ref">
+                <a href="Europe.html" class="cibleP" >
+                    Europe
+                </a>
+                    <span>&#9660;</span>
+                    <ul class="sous-liste">
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Géographie</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Histoire</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Aperçue</a>
+                        </li>
+                    </ul>
+                </a>
+                
+            </li>
+            <li class="ref">
+                <a href="asie.html" class="cibleP" > 
+                    Asie
+                </a>
+                <span>&#9660;</span>
+                <ul class="sous-liste">
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Géographie</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Histoire</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Apperçue</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="ref">
+                <a href="amerique.html" class="cibleP">
+                    Amerique
+                </a> 
+                <span>&#9660;</span>
+                <ul class="sous-liste">
+                    <li class="ref-sous-liste">
+                        <a href="#geographie-Amerique">Géographie</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="#Histoire-Amerique">Histoire</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="#Apperçue-Amerique">Apperçue</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="ref">
+                <a href="afrique.html" class="cibleP" id="Active">
+                    Afrique
+                </a>
+            </li>
+           </ul>
+        </nav>
+        
+    </header> 
+   <div class="banniere">
+    <div class="cube-container">
+        <div class="cube">
+          <div class="face front">
+            <h3>  Afrique</h3>
+          </div>
+          <div class="face back"></div>
+          <div class="face right"></div>
+          <div class="face left"></div>
+          <div class="face top"></div>
+          <div class="face bottom"></div>
+        </div>
+    </div>
+    <div class="titre">
+        <h1 class="h1">
+            Afrique
+        </h1>
+        <p class="p">Vous aimez voyagez, vous etes passionner d'histoire,<br> <span>Rabat, Maroc.</span> est votre destination de reve dans ce continent.</p>
+        <h2 class="h2">
+            Rabat
+        </h2>
+        <p class="p">direction: <em class="em">La tour <br>Hassan  </em></p>
+
+    </div>
+   </div>
+   <div class="contenu"> 
+       <div class="mini-bimou">
+           <div class="bimou">
+              <h3><a href="#geographie-Afrique">Géographie</a></h3>
+              <p>Dans cet rubrique nous vous presenterons la particularité géographique de la ville de Rabat dans ce continent Africain.</p>
+           </div> 
+           <div class="bimou">
+             <h3><a href="#Histoire-Afrique">Histoire</a></h3>
+             <p>Dans cet rubrique nous vous presenterons l'histoire derriere ce site historique: <em>La tour Hassan </em> .</p>
+           </div> 
+         <div class="bimou">
+             <h3><a href="#Apperçue-Afrique">Apperçue</a></h3>
+             <p>Dans cet rubrique nous vous presenterons <em>La tour Hassan </em>,une representation de cette édifice, des photos et vidéo.</p>
+         </div> 
+       </div>
+       <div class="Geographie">
+          <div class="Geographie-titre">
+              <h1 id="geographie-Afrique">
+                  Geographie
+              </h1>
+           </div>
+          <div class="geographie-contenu">
+                <div class="circle img1">
+                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Morocco_location_map.svg/420px-Morocco_location_map.svg.png" alt=""> 
+                </div>
+                <div class="circle img2">
+                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Zaouia_in_the_old_Medina_of_Rabat_MedinaStories_2020_023.jpg/420px-Zaouia_in_the_old_Medina_of_Rabat_MedinaStories_2020_023.jpg" alt=""> 
+               </div>
+              <div>
+                   <h2>
+                      un endroit à visiter
+                   </h2>
+                   <p>    
+                    Rabat est la capitale du Maroc.
+
+                    La ville est située au bord de l'Atlantique au nord-ouest du Maroc, à 40 km au sud de Kénitra et 240 km au sud-ouest de Tanger et du détroit de Gibraltar, et à 87 km au nord-est de Casablanca. Elle est séparée de la ville de Salé au niveau de l'embouchure du Bouregreg, d'où leur surnom de « villes jumelles »6.
+
+                    Sur le plan administratif, son territoire — à distinguer de celui de l’agglomération rabataise incluant sa banlieue — d'une superficie de 118,5 km27, correspond à celui de la préfecture de Rabat qui, depuis le retour au principe de l'unité de la ville en 20028, est composée d'une part de la commune urbaine de Rabat, divisée en cinq arrondissements ; d'autre part de la commune urbaine de Touarga, où se situe le palais royal, enclavée dans la première. Lors du dernier recensement de 2014, sa population était de 577 827 habitants9, faisant de Rabat la 7e plus grande ville du royaume. Avec sa banlieue, elle forme la deuxième plus grande agglomération du pays après celle de Casablanca10.
+
+                    Depuis 2012, un ensemble de sites de Rabat est inscrit sur la liste du patrimoine mondial de l'Unesco. La ville a aussi reçu la deuxième place du classement CNN des « Meilleures destinations touristiques de 2013 »
+                    <br>
+                    Le cœur de la ville de Rabat est constitué de trois quartiers : la Médina (centre historique), la Kasbah des Oudayas et Hassan, situés à l'intérieur de la muraille almohade.
+
+                    À l'ouest, et en longeant les bords de mer, on retrouve une succession de quartiers. D'abord, aux alentours des remparts, les quartiers anciens de l'Océan et des Orangers (populaire et classe moyenne). Au-delà, une succession de quartiers majoritairement populaires : Diour Jamaa, Akkari, Yacoub el-Mansour, Massira et Hay el-Fath.
+                    
+                    À l'est, en longeant le fleuve Bouregreg, on retrouve les quartiers populaires de Youssoufia, Douar el-Hajja, Taqaddoum, Aviation, Romani (classes populaires et moyennes).
+                    
+                    Entre ces deux axes, en allant du nord au sud, on retrouve 3 principaux quartiers : Agdal (quartier d'immeubles très vivant mélangeant les fonctions résidentielles et commerciales, majoritairement à destination des classes moyennement aisées), Hay Riad (quartier aisé qui a connu un sursaut de dynamisme depuis les années 2000, tendant à devenir le nouveau centre d'affaires de Rabat), Souissi (quartier très aisé, majoritairement résidentiel) et Hay Nahda (classes moyennes)
+                      C'est dans ce magnifique lieu que l'on retrouve notre site historique <br><em>Le Lincoln Memorial</em> 
+                   </p> 
+              </div>
+           </div>
+       </div>
+       <div class="Histoire">
+          <div class="Geographie-titre">
+               <h1 id="Histoire-Afrique">
+                  Histoire
+               </h1>
+          </div>
+           <div class="geographie-contenu">
+              <div class="circle img1">
+                 <img src="https://i.pinimg.com/474x/0c/b9/1a/0cb91aec403cf2bcbf11d78d81ca2c21.jpg" alt=""> 
+              </div>
+              <div class="circle img2">
+                 <img src="https://i.pinimg.com/564x/cb/9b/0d/cb9b0dfabdfbcc74b834fe15f69475ed.jpg" alt=""> 
+             </div>
+              <div>
+                   <h2>
+                    La tour Hassan 
+                   </h2>
+                   <p>
+                    La tour Hassan est une tour emblématique de Rabat, capitale du Maroc, constituant le minaret d'une mosquée du xiie siècle inachevée.
+                     <br>
+                     Le sultan Yacoub El Mansour de la dynastie des Almohades projetait de construire la plus grande mosquée du monde musulman, après celle de Samara en Irak.
+
+                     On ignore beaucoup de choses de cette œuvre gigantesque à commencer par son nom dont on ne connaît pas l'origine : nom du lieu, nom d'une tribu ou nom du maître d’œuvre. Pour certains historiens du xviiie siècle, notamment espagnols, l'architecte serait un dénommé Jabir ibn Aflah, latinisé au xvie siècle sous le nom de Guever, Sévillan mort vers l'an 1197 qui aurait conçu à l'identique la Giralda de Séville, la Koutoubia de Marrakech et le minaret de la mosquée Hassan de Rabat. Cette hypothèse n'a jamais été confirmée. Pour la grande majorité des historiens2, l'architecte Ahmad Ben Baso, concepteur de la mosquée Koutoubia et de la Giralda de Séville, sous le même modèle, est aussi l'architecte de la tour Hassan. Une tierce hypothèse plus logique retient la coopération de plusieurs architectes dont les plus éminents sont Ahmad Ben Baso et Jabir Ibn Aflah. La seule certitude historique est la date de début des travaux, 1196, et le nom du commanditaire.
+                     
+                     Les travaux furent abandonnés après la mort du sultan Yacoub El Mansour, en 1199. Le minaret devait culminer à plus de 60 m, mais n'atteignit que 44,3 m. La mosquée Hassâne ou Hassan fut donc improprement appelée tour Hassan.
+                     
+                     La colonnade de l'édifice fut endommagée lors du tremblement de terre de Lisbonne de 1755, qui détruisit entièrement le dôme de la tour.La tour Hassan est construite avec une pierre de couleur rouge dans le style caractéristique des palais et édifices religieux du Maroc. À l’intérieur, pas d'escaliers typiques des minarets mais des rampes d’accès permettant au muezzin d’arriver au sommet à cheval pour l’appel à la prière.
+
+                     Avec ses quatre façades sculptées dans la pierre, chacune avec une ornementation différente, la tour Hassan ressemble beaucoup au minaret de la Koutoubia, à Marrakech, ou à la Giralda de Séville, en Espagne.
+                     
+                     Près du minaret, on peut découvrir les vestiges de la mosquée inachevée avec ses murs en ruines et près de 200 colonnes qui devaient soutenir le toit de l’édifice. Ces colonnes furent pratiquement toutes détruites lors du tremblement de terre de 1755.Son site a été choisi pour ériger, de 1961 à 1971, le mausolée Mohammed-V où reposent4 le roi Mohammed V (décédé en 1961) et ses fils :
+
+                     le prince Moulay Abdallah (décédé en 1983) ;
+                     le roi Hassan II (décédé en 1999). <br>Au pied de la tour, deux larges escaliers permettent d'accéder au tombeau du soldat inconnu, situé sur le sol de l'ancienne mosquée.
+                   </p>
+            </div>
+         </div>
+       </div>
+       <div class="Apperçue">
+           <div class="Geographie-titre">
+               <h1 id="Apperçue-Afrique">
+                  Apperçue
+               </h1>
+           </div>
+           <div class="geographie-contenu">
+               <div class="media">
+                    <h2>La tour Hassan  en une Vidéo</h2>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/GITsqjl9E1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1200/https://www.rabat-maroc.net/wp-content/uploads/2019/10/tour-hassan-ouestsud-2017-nuit-1200x1800.jpg);background-size: cover">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Façades ouest et sud de la Tour Hassan</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/564x/73/55/da/7355da2e3478fa06140f7a12552e7c29.jpg);background-size: cover">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Les jardins de la Tour Hassane</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.rabat-maroc.net/wp-content/uploads/2023/03/tour-hassan-facades-maritime-et-ouest-2022.webp); background-size: cover;">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Façades maritime nord et ouest
+                                    côté Bouregreg et jardins de la Tour Hassan</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+           </div>    
+       </div>
+  </div> 
+</body>
+</html>
+*
+{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    cursor: pointer;
+}
+header
+{
+    background-color: #857dff;
+    
+    width: 100%;
+    height: 100px;
+    
+}
+.logo a
+{
+    color: #f3f2ff;
+    padding: 15px 10px;
+    border: 1px solid #ffebd8;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+    text-transform: uppercase;/*Magiscule*/
+    text-shadow: black;
+}
+.logo span
+{
+    color:#ffd5ba;
+    font-size: 30px;
+    
+}
+.ref-liste
+{
+    list-style: none;
+    display: flex;
+    float: right;
+    margin-top: 10px;
+}
+.ref
+{
+    cursor: pointer;
+}
+.ref span
+{
+    font-size: 10px;
+    color: #f3f2ff;
+}
+.ref:nth-child(3)
+{
+    margin-left: 0;
+}
+.sous-liste
+{
+    position: relative;
+    top: -2px;
+    display: none;
+    left: 30px;
+}
+.ref-sous-liste
+{
+    list-style-type: none;
+    text-align: center;
+    padding: 0 10px;
+    background-color: #f3f2ff;
+    border-bottom: 0,5px solid #857dff ;
+    color: #857dff ;
+    
+}
+.ref-sous-liste:hover
+{
+    background-color: #B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+.ref:hover > ul
+{
+display: block;
+}
+.ref-liste .ref
+{
+    border: 1px solid transparent;
+    margin: 5px;  
+    padding: 2px 5px;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    transition: 1s ;/*Une transition de 1s entre les diffentes modifications de propriété CSS*/
+    
+}
+.ref-liste .ref .cibleP
+{
+    color: #f3f2ff;
+    padding: 1px 10px;
+    text-transform: uppercase
+}
+.ref-liste .ref .cibleP:hover
+{
+    background-color:#B4BAFF;
+
+}
+.ref-liste .ref .cibleP:hover
+{
+    color: #ffebd8;
+    text-decoration: underline;
+}
+#Active
+{
+    background-color:#B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+
+.europe-navbar
+{
+    height: 100rem;
+    width: 110px;
+    background-color: #ffebd8;
+}
+.menu-europe
+{
+    list-style: none;
+    display: block;
+    float: left;
+    margin: 180px 0;
+    padding: 40PX 10px;
+}
+.menu-europe .europe
+{
+    padding: 60px 0;
+}
+body
+{
+   
+    height: 100%;
+    background-size: cover ;
+    background-position: center;
+  
+   
+}
+.banniere
+{
+    display: block;
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url(https://i.pinimg.com/474x/cb/d1/e6/cbd1e686eb62f94ce9684cc25bf49ce4.jpg);
+    background-size: cover ;
+    background-position: center;
+   
+   
+}
+/*notre cube et son background*/
+.cube-container
+{
+    height: 200px;
+    width: 200px;
+    perspective: 1000px;
+    padding: 180px 10% ;
+    position: absolute;
+  
+}
+.cube
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    animation: spin 15s infinite linear;
+
+}
+.face
+{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+.top
+{
+
+     background-color: #857dff;
+     transform: rotateX(90deg) translateZ(100px);
+     background-image: url(https://i.pinimg.com/474x/13/fb/c9/13fbc95cd73aefa9f27fd878f3df2fd1.jpg);
+     background-size: cover;
+     background-position: center;
+}
+.bottom
+{
+    background-color: #857dff;
+    transform: rotateX(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/49/e0/ef/49e0ef611eb296072e6906d00307e500.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.right
+{
+    background-color: #857dff;
+    transform: rotateY(90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/33/16/93/3316932e883dfa5803ec7070848454b0.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.left
+{
+    transform: rotateY(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/2b/50/cb/2b50cbbe0a17cb3c0e01783b6f0692ad.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.front
+{
+    font-size: 19px;
+    text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #857dff;
+    transform: rotateX(0deg) translateZ(100px);
+    color: #f3f2ff;
+    text-decoration: underline #ffebd8;
+}
+.back
+{
+    background-color: #857dff;
+    transform: rotateX(-180deg) translateZ(100px);
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+@keyframes spin/*pour animé la rotation*/
+{
+    from{
+        transform: rotateX(0deg) rotateY(0deg) ;
+    }
+    to{
+        transform: rotateX(360deg) rotateY(360deg);
+    }
+}
+/*fin cube*/
+.titre
+{
+   padding: 15% 5%;
+    float: right;
+    color: #f3f2ff;
+}
+.h1
+{
+    font-size: 70px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.h2
+{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p
+{
+    font-size: 20px;
+}
+.em
+{
+    font-size: 80px;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline #B4BAFF;
+}
+.contenu
+{
+    background-color: #f3f2ff;
+    height: 100%;
+}
+.mini-bimou
+{
+
+display: flex;
+justify-content: space-between;
+
+
+}
+.bimou h3
+{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: #ffebd8 ;
+}
+.bimou h3 a
+{
+    color: #f3f2ff;
+}
+.bimou h3 a:hover
+{
+    color: #ffd5ba;
+}
+.bimou
+{
+    margin-top: 3%;
+    flex-basis: 31%;
+    background-color: #B4BAFF;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0,5s;
+    color: white;
+}
+.bimou:hover
+{
+    /*box-shadow:0 0 20px 0px rgba(0,0,0,0,2);*/
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.Geographie-titre
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0;
+
+}
+#geographie-Amerique
+{
+   transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+.geographie-contenu
+{
+    position: relative;
+    width: 100%;
+    padding: 10% 0;
+}
+.circle
+{
+    position: relative;
+    overflow:hidden;
+    
+
+}
+.circle.img1
+{
+    width: 500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img1 img
+{
+    width:500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.circle.img2
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img2 img
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.geographie-contenu h2
+{
+font-size: 2rem;
+margin-bottom: 10px;
+color: red;
+text-align: center;
+}
+.geographie-contenu .carteback em
+{
+    font-size: 60px;
+    text-decoration: underline red solid;
+}
+#Histoire-Amerique
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+#Apperçue-Amerique
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+/*box apperçue*/
+.style
+{
+    margin-top: 5%;
+    display: inline-block;   
+}
+.style:hover
+{
+    cursor: pointer;
+}
+.monument
+{
+    display:block;
+    margin-left: 5%;
+    padding: 0px 5px 10px 5px;
+    
+}
+.cardcontainer
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+    grid-gap: 20px;
+    margin: 80px 0px;
+    
+    
+}
+.cardwrapper
+{
+    position: relative;
+    height: 350px;
+    perspective: 2000px;/*il s'agit d'une distance de 2000px qui vas séparer notre carte de notre ecran afin de pouvoir y insérer ce que nous voulons. dans notre cas cela nous permettra de pouvoir la retourner sans utilisé l'espace des autres cartes */
+    perspective-origin: top;
+}
+.cardwrapper:hover .carte
+{
+transform: rotateY(180deg);
+transition: 2s cubic-bezier(0.86, 0, 0.07, 1);
+    
+}
+.carte
+{
+    position: relative;
+    height: 100%;
+    transform-style: preserve-3d;
+    
+    font-weight: bold;
+    color: #B4BAFF;
+    display:flex;
+}
+
+.cartefront,.carteback
+{
+    position: absolute;
+    height: 100%;
+    width: 60%;
+    padding: 55px;
+    border-radius: 8px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;/*pour chromme et safari*/
+   
+    
+
+}
+.cartefront
+{
+   
+    background-size: cover;
+}
+.carteback
+{
+    background-color: #ffebd8;
+    transform: rotateY(180deg);
+   text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="amerique.css">
+    <title>amerique</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html">
+                <span>G</span>uide
+            </a>
+        </div>
+        <nav>
+           <ul class="ref-liste">
+            <li class="ref" >
+                <a href="index.html" class="cibleP">accueil</a>
+            </li>
+            <li class="ref">
+                <a href="Europe.html" class="cibleP" >
+                    Europe
+                </a>
+                    <span>&#9660;</span>
+                    <ul class="sous-liste">
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Géographie</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Histoire</a>
+                        </li>
+                        <li class="ref-sous-liste">
+                            <a href="Europe.html">Aperçue</a>
+                        </li>
+                    </ul>
+                </a>
+                
+            </li>
+            <li class="ref">
+                <a href="asie.html" class="cibleP" > 
+                    Asie
+                </a>
+                <span>&#9660;</span>
+                <ul class="sous-liste">
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Géographie</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Histoire</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="asie.html">Apperçue</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="ref">
+                <a href="amerique.html" class="cibleP" id="Active">
+                    Amerique
+                </a> 
+              
+            </li>
+            <li class="ref">
+                <a href="afrique.html" class="cibleP">
+                    Afrique
+                </a>
+                <span>&#9660;</span>
+                <ul class="sous-liste">
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Géographie</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Histoire</a>
+                    </li>
+                    <li class="ref-sous-liste">
+                        <a href="afrique.html">Apperçue</a>
+                    </li>
+                </ul>
+            </li>
+           </ul>
+        </nav>
+        
+    </header> 
+   <div class="banniere">
+    <div class="cube-container">
+        <div class="cube">
+          <div class="face front">
+            <h3> Amerique</h3>
+          </div>
+          <div class="face back"></div>
+          <div class="face right"></div>
+          <div class="face left"></div>
+          <div class="face top"></div>
+          <div class="face bottom"></div>
+        </div>
+    </div>
+    <div class="titre">
+        <h1 class="h1">
+            Amerique
+        </h1>
+        <p class="p">Vous aimez voyagez, vous etes passionner d'histoire,<br> <span>Washington, D.C.</span> est votre destination de reve dans ce continent.</p>
+        <h2 class="h2">
+            Washington, D.C.
+        </h2>
+        <p class="p">direction: <em class="em">Le Lincoln <br>Memorial </em></p>
+
+    </div>
+   </div>
+   <div class="contenu"> 
+       <div class="mini-bimou">
+           <div class="bimou">
+              <h3><a href="#geographie-Amerique">Géographie</a></h3>
+              <p>Dans cet rubrique nous vous presenterons la particularité géographique de la ville de Washington, D.C. dans ce continent Americain.</p>
+           </div> 
+           <div class="bimou">
+             <h3><a href="#Histoire-Amerique">Histoire</a></h3>
+             <p>Dans cet rubrique nous vous presenterons l'histoire derriere ce site historique: <em>Le Lincoln Memorial</em> .</p>
+           </div> 
+         <div class="bimou">
+             <h3><a href="#Apperçue-Amerique">Apperçue</a></h3>
+             <p>Dans cet rubrique nous vous presenterons <em>Le Lincoln Memorial</em>,une representation de cette édifice, des photos et vidéo.</p>
+         </div> 
+       </div>
+       <div class="Geographie">
+          <div class="Geographie-titre">
+              <h1 id="geographie-Amerique">
+                  Geographie
+              </h1>
+           </div>
+          <div class="geographie-contenu">
+                <div class="circle img1">
+                   <img src="https://maps.wikimedia.org/img/osm-intl,9,38.895,-77.036666666667,280x200@2x.png?lang=en&domain=en.wikipedia.org&title=Washington%2C+D.C.&revid=1145585500&groups=_2461ad7106f3e860a069f2f47e32f6fad865a810" alt=""> 
+                </div>
+                <div class="circle img2">
+                   <img src="https://i.pinimg.com/474x/d7/de/29/d7de2996858cdc5cf052151337860947.jpg" alt=""> 
+               </div>
+              <div>
+                   <h2>
+                      un endroit à visiter
+                   </h2>
+                   <p>    
+                    Washington, D.C., anciennement le District de Columbia, également connu sous le nom de Washington, le District, ou D.C., est la capitale et le district fédéral des États-Unis. La ville est située sur la rive est du fleuve Potomac, qui forme sa frontière sud-ouest avec la Virginie, et elle borde également le Maryland au nord et à l’est[10]. La ville a été nommée en l’honneur de George Washington, un père fondateur, commandant général de l’armée continentale pendant la guerre d’indépendance américaine et premier président des États-Unis[11], et le district porte le nom de Columbia, la personnification féminine de la nation.
+                    <br>
+                    Washington, D.C., est situé dans la région médio-atlantique de la côte est des États-Unis. La ville a une superficie totale de 68,34 milles carrés (177 km 2), dont 61,05 milles carrés (158,1 km 2) de terres et 7,29 milles carrés (18,9 km2) (10,67%) d’eau. Le district est bordé par le comté de Montgomery, Maryland, au nord-ouest[59]. le comté de Prince George, Maryland, à l’est; le comté d’Arlington, situé dans l’État de Virginie, à l’ouest; et Alexandria, en Virginie, au sud. Washington, D.C., est à 38 miles (61 km) de Baltimore, 124 miles (200 km) de Philadelphie, 227 miles (365 km) de New York, 242 miles (389 km) de Pittsburgh, 384 miles (618 km) de Charlotte et 439 miles (707 km) de Boston.
+
+                    La rive sud du fleuve Potomac forme la frontière du district avec la Virginie et a deux affluents principaux, la rivière Anacostia et le ruisseau Rock. [60] Tiber Creek, un cours d’eau naturel qui traversait autrefois le National Mall, a été entièrement fermé sous terre au cours des années 1870.[61] Le ruisseau formait également une partie du canal de Washington City, qui permettait le passage à travers la ville jusqu’à la rivière Anacostia de 1815 jusqu’aux années 1850.[62] Le canal de Chesapeake et Ohio commence à Georgetown et a été utilisé au cours du 19ème siècle pour contourner les petites chutes de la rivière Potomac, situées à l’extrémité nord-ouest de la ville à la ligne de chute de la côte atlantique. [63]
+                    
+                    L’altitude naturelle la plus élevée du district est de 409 pieds (125 m) au-dessus du niveau de la mer à Fort Reno Park, dans le nord-ouest supérieur de Washington, DC. [64] Le point le plus bas est le niveau de la mer au fleuve Potomac. [65] Le centre géographique de Washington est proche de l’intersection des rues 4th et L NW.[66][67],[68]
+                    
+                    Le district compte 7 464 acres (30,21 km2) de parcs, soit environ 19% de la superficie totale de la ville et le deuxième pourcentage le plus élevé parmi les villes américaines à forte densité après Philadelphie. [69] L’important parc de la ville a contribué au classement de la ville au troisième rang national pour l’accès aux parcs et la qualité dans le classement ParkScore 2018 des systèmes de parcs des 100 villes les plus peuplées du pays, selon Trust for Public Land, une organisation à but non lucratif. [70]
+                    
+                    Le National Park Service gère la plupart des 9 122 acres (36,92 km2) de terres municipales appartenant au gouvernement américain. [71] Rock Creek Park est une forêt urbaine de 1 754 acres (7,10 km2) dans le nord-ouest de Washington, qui s’étend sur 9,3 miles (15,0 km) à travers une vallée de ruisseaux qui divise la ville. Créé en 1890, c’est le quatrième plus ancien parc national du pays et abrite une variété d’espèces végétales et animales, notamment des ratons laveurs, des cerfs, des hiboux et des coyotes. [72] Les autres propriétés du National Park Service comprennent le parc historique national du canal de Chesapeake et de l’Ohio, le National Mall and Memorial Parks, l’île Theodore Roosevelt, l’île Columbia, le parc Fort Dupont, le parc Meridian Hill, le parc Kenilworth et les jardins aquatiques et le parc Anacostia. [73] Le Département des parcs et des loisirs du District de Columbia entretient les 900 acres (3,6 km2) de terrains de sport et de terrains de jeux, 40 piscines et 68 centres de loisirs. [74] Le département de l’Agriculture des États-Unis exploite l’Arboretum national des États-Unis de 446 acres (1,80 km2) dans le nord-est de Washington, D.C
+                      C'est dans ce magnifique lieu que l'on retrouve notre site historique <br><em>Le Lincoln Memorial</em> 
+                   </p> 
+              </div>
+           </div>
+       </div>
+       <div class="Histoire">
+          <div class="Geographie-titre">
+               <h1 id="Histoire-Amerique">
+                  Histoire
+               </h1>
+          </div>
+           <div class="geographie-contenu">
+              <div class="circle img1">
+                 <img src="https://i.pinimg.com/474x/b3/36/ac/b336acfdc9a32bbc67f4aec3934a4bd4.jpg" alt=""> 
+              </div>
+              <div class="circle img2">
+                 <img src="https://i.pinimg.com/474x/de/45/29/de452929f2de668e0574a5374b505e94.jpg" alt=""> 
+             </div>
+              <div>
+                   <h2>
+                    Le Lincoln Memorial
+                   </h2>
+                   <p>
+                    Le Lincoln Memorial est un mémorial national américain construit en l’honneur du 16e président des États-Unis, Abraham Lincoln. Il se trouve à l’extrémité ouest du National Mall à Washington, D.C., en face du Washington Monument, et se présente sous la forme d’un temple néoclassique. L’architecte du mémorial était Henry Bacon. Le concepteur de la grande statue centrale de l’intérieur du mémorial, Abraham Lincoln (1920), était Daniel Chester French; la statue de Lincoln a été sculptée par les frères Piccirilli. [3] Le peintre des peintures murales intérieures était Jules Guérin, et l’épitaphe au-dessus de la statue a été écrite par Royal Cortissoz. Inauguré en mai 1922, il est l’un des nombreux mémoriaux construits en l’honneur d’un président américain. Il a toujours été une attraction touristique majeure et depuis les années 1930 a parfois été un centre symbolique axé sur les relations raciales.
+                     <br>
+                     Le premier mémorial public au président des États-Unis Abraham Lincoln à Washington, D.C., était une statue de Lot Flannery érigée devant l’hôtel de ville du district de Columbia en 1868, trois ans après l’assassinat de Lincoln. [5],[6] Des demandes pour un mémorial national approprié avaient été exprimées depuis l’époque de la mort de Lincoln. En 1867, le Congrès a adopté le premier de nombreux projets de loi incorporant une commission pour ériger un monument pour le seizième président. Un sculpteur américain, Clark Mills, a été choisi pour concevoir le monument. Ses plans reflétaient l’esprit nationaliste de l’époque et exigeaient une structure de 70 pieds (21 m) ornée de six statues équestres et de 31 statues piétonnes aux proportions colossales, couronnées par une statue d’Abraham Lincoln de 12 pieds (3,7 m). Les abonnements pour le projet étaient insuffisants. [7]
+
+                     La question est restée en sommeil jusqu’au début du 20e siècle, quand, sous la direction du sénateur Shelby M. Cullom de l’Illinois, six projets de loi distincts ont été présentés au Congrès pour l’incorporation d’une nouvelle commission commémorative. Les cinq premiers projets de loi, proposés en 1901, 1902 et 1908, ont été rejetés en raison de l’opposition du président Joe Cannon. Le sixième projet de loi (projet de loi 9449 du Sénat), présenté le 13 décembre 1910, a été adopté. La Lincoln Memorial Commission a tenu sa première réunion l’année suivante et le président des États-Unis, William H. Taft, a été choisi comme président de la commission. Les progrès se poursuivirent à un rythme soutenu et, en 1913, le Congrès avait approuvé le choix de la conception et de l’emplacement de la commission. [7]
+                     
+                     Des questions ont été posées au sujet du plan de la commission. Beaucoup pensaient que la conception du temple grec de l’architecte Henry Bacon était beaucoup trop ostentatoire pour un homme du caractère humble de Lincoln. Au lieu de cela, ils ont proposé un simple sanctuaire de cabane en rondins. Le site non plus n’est pas resté sans opposition. Les terres récemment récupérées dans le parc West Potomac étaient considérées par beaucoup comme trop marécageuses ou trop inaccessibles. D’autres sites, comme la gare Union, ont été mis en avant. La Commission est restée ferme dans sa recommandation, estimant que l’emplacement du parc Potomac, situé sur l’axe Washington Monument-Capitol, surplombant le fleuve Potomac et entouré de terres ouvertes, était idéal. De plus, le site du parc du Potomac avait déjà été désigné dans le plan McMillan de 1901 pour être l’emplacement d’un futur monument comparable à celui du Washington Monument. [7][8]
+                     
+                     Avec l’approbation du Congrès et une allocation de 300 000 $, le projet a démarré. Le 12 février 1914, l’entrepreneur M. F. Comer de Toledo, Ohio; membre résident de la commission commémorative, l’ancien sénateur Joseph C. S. Blackburn du Kentucky; et le concepteur du mémorial, Henry Bacon, a organisé une cérémonie d’inauguration des travaux en retournant quelques bêches de terre. [9] Le mois suivant est celui où la construction proprement dite a commencé. Les travaux ont progressé régulièrement selon l’échéancier. Certaines modifications ont été apportées au plan. La statue de Lincoln, conçue à l’origine pour mesurer 10 pieds (3,0 m) de haut, a été agrandie à 19 pieds (5,8 m) pour éviter qu’elle ne soit submergée par l’immense chambre. Aussi tard qu’en 1920, la décision a été prise de substituer un portail ouvert à la grille de bronze et de verre qui devait garder l’entrée. Malgré ces changements, le Mémorial a été terminé dans les délais prévus. Le président de la Commission, William H. Taft – qui était alors juge en chef des États-Unis – a inauguré le Mémorial le 30 mai 1922 et l’a présenté au président des États-Unis, Warren G. Harding, qui l’a accepté au nom du peuple américain. Le seul fils survivant de Lincoln, Robert Todd Lincoln, âgé de 78 ans, était présent. [10] D’éminents Afro-Américains ont été invités à l’événement et ont découvert à leur arrivée qu’ils avaient été affectés à une section séparée gardée par des Marines américains. [11]
+                     
+                     Le mémorial a été inscrit au registre national des lieux historiques le 15 octobre 1966.
+                   </p>
+            </div>
+         </div>
+       </div>
+       <div class="Apperçue">
+           <div class="Geographie-titre">
+               <h1 id="Apperçue-Amerique">
+                  Apperçue
+               </h1>
+           </div>
+           <div class="geographie-contenu">
+               <div class="media">
+                    <h2>Le Lincoln Memorial en une Vidéo</h2>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/_1jGbPaNw_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+               </div>
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/564x/81/72/4c/81724c817e823f39aee069ab49883b77.jpg);background-size: cover">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Abraham Lincoln monument</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/474x/f7/dc/7b/f7dc7ba3560b5106368d0f14c08a8726.jpg);background-size: cover">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Abraham Lincoln monument en construction</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+               <div class="style">   
+                <div class="monument">
+                  <div class="cardcontainer">
+                     <div class="cardwrapper">
+                      <div class="carte">
+                          <div class="cartefront" style="background-image: url(https://i.pinimg.com/474x/5e/25/0c/5e250cde395945981b664ef3b3bcc639.jpg); background-size: cover;">
+                              <img src="" alt="">
+                          </div>
+                          <div class="carteback">
+                              <h2>
+                                 <a href="Europe.html"> <em>Lincoln Memorial Reflecting Pool</em></a>
+                               </h2>
+                               <p>
+          
+                               </p>
+                           </div>
+                       </div>
+                     </div>
+                  </div>
+                </div>
+               </div>   
+           </div>    
+       </div>
+  </div> 
+</body>
+</html>
+*
+{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    cursor: pointer;
+}
+header
+{
+    background-color: #857dff;
+    
+    width: 100%;
+    height: 100px;
+    
+}
+.logo a
+{
+    color: #f3f2ff;
+    padding: 15px 10px;
+    border: 1px solid #ffebd8;
+    top: 10px;
+    left: 10px;
+    position: absolute;
+    text-transform: uppercase;/*Magiscule*/
+    text-shadow: black;
+}
+.logo span
+{
+    color:#ffd5ba;
+    font-size: 30px;
+    
+}
+.ref-liste
+{
+    list-style: none;
+    display: flex;
+    float: right;
+    margin-top: 10px;
+}
+.ref
+{
+    cursor: pointer;
+}
+.ref span
+{
+    font-size: 10px;
+    color: #f3f2ff;
+}
+.ref:nth-child(3)
+{
+    margin-left: 0;
+}
+.sous-liste
+{
+    position: relative;
+    top: -2px;
+    display: none;
+    left: 30px;
+}
+.ref-sous-liste
+{
+    list-style-type: none;
+    text-align: center;
+    padding: 0 10px;
+    background-color: #f3f2ff;
+    border-bottom: 0,5px solid #857dff ;
+    color: #857dff ;
+    
+}
+.ref-sous-liste:hover
+{
+    background-color: #B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+.ref:hover > ul
+{
+display: block;
+}
+.ref-liste .ref
+{
+    border: 1px solid transparent;
+    margin: 5px;  
+    padding: 2px 5px;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    transition: 1s ;/*Une transition de 1s entre les diffentes modifications de propriété CSS*/
+    
+}
+.ref-liste .ref .cibleP
+{
+    color: #f3f2ff;
+    padding: 1px 10px;
+    text-transform: uppercase
+}
+.ref-liste .ref .cibleP:hover
+{
+    background-color:#B4BAFF;
+
+}
+.ref-liste .ref .cibleP:hover
+{
+    color: #ffebd8;
+    text-decoration: underline;
+}
+#Active
+{
+    background-color:#B4BAFF;
+    color: #ffebd8;
+    text-decoration: underline;
+}
+
+.europe-navbar
+{
+    height: 100rem;
+    width: 110px;
+    background-color: #ffebd8;
+}
+.menu-europe
+{
+    list-style: none;
+    display: block;
+    float: left;
+    margin: 180px 0;
+    padding: 40PX 10px;
+}
+.menu-europe .europe
+{
+    padding: 60px 0;
+}
+body
+{
+   
+    height: 100%;
+    background-size: cover ;
+    background-position: center;
+  
+   
+}
+.banniere
+{
+    display: block;
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)),url(https://i.pinimg.com/474x/8a/ff/d3/8affd3db08d3f2a69226840c9c979685.jpg);
+    background-size: cover ;
+    background-position: center;
+   
+   
+}
+/*notre cube et son background*/
+.cube-container
+{
+    height: 200px;
+    width: 200px;
+    perspective: 1000px;
+    padding: 180px 10% ;
+    position: absolute;
+  
+}
+.cube
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    animation: spin 15s infinite linear;
+
+}
+.face
+{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+}
+.top
+{
+
+     background-color: #857dff;
+     transform: rotateX(90deg) translateZ(100px);
+     background-image: url(https://i.pinimg.com/474x/06/dc/c2/06dcc24137b759146491dff23165d1ab.jpg);
+     background-size: cover;
+     background-position: center;
+}
+.bottom
+{
+    background-color: #857dff;
+    transform: rotateX(-90deg) translateZ(100px);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Map_of_India_1823.jpg/330px-Map_of_India_1823.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.right
+{
+    background-color: #857dff;
+    transform: rotateY(90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/564x/50/78/d1/5078d17b90e003a6fab6a9fb799a2e45.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.left
+{
+    transform: rotateY(-90deg) translateZ(100px);
+    background-image: url(https://i.pinimg.com/474x/ad/92/6d/ad926d9856caa8258aacde6f43b7ee73.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.front
+{
+    font-size: 19px;
+    text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #857dff;
+    transform: rotateX(0deg) translateZ(100px);
+    color: #f3f2ff;
+    text-decoration: underline #ffebd8;
+}
+.back
+{
+    background-color: #857dff;
+    transform: rotateX(-180deg) translateZ(100px);
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+}
+@keyframes spin/*pour animé la rotation*/
+{
+    from{
+        transform: rotateX(0deg) rotateY(0deg) ;
+    }
+    to{
+        transform: rotateX(360deg) rotateY(360deg);
+    }
+}
+/*fin cube*/
+.titre
+{
+   padding: 15% 5%;
+    float: right;
+    color: #f3f2ff;
+}
+.h1
+{
+    font-size: 70px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.h2
+{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p
+{
+    font-size: 20px;
+}
+.em
+{
+    font-size: 80px;
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline #B4BAFF;
+}
+.contenu
+{
+    background-color: #f3f2ff;
+    height: 100%;
+}
+.mini-bimou
+{
+
+display: flex;
+justify-content: space-between;
+
+
+}
+.bimou h3
+{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: #ffebd8 ;
+}
+.bimou h3 a
+{
+    color: #f3f2ff;
+}
+.bimou h3 a:hover
+{
+    color: #ffd5ba;
+}
+.bimou
+{
+    margin-top: 3%;
+    flex-basis: 31%;
+    background-color: #B4BAFF;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0,5s;
+    color: white;
+}
+.bimou:hover
+{
+    /*box-shadow:0 0 20px 0px rgba(0,0,0,0,2);*/
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.Geographie-titre
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0;
+
+}
+#geographie-Asie
+{
+   transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+.geographie-contenu
+{
+    position: relative;
+    width: 100%;
+    padding: 10% 0;
+}
+.circle
+{
+    position: relative;
+    overflow:hidden;
+    
+
+}
+.circle.img1
+{
+    width: 500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img1 img
+{
+    width:500px;
+    height: 500px;
+    float: left;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.circle.img2
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    shape-outside:circle() ;
+}
+.circle.img2 img
+{
+    width: 300px;
+    height: 300px;
+    float: right;
+    border-radius: 70%;
+    margin: 20px;
+    
+}
+.geographie-contenu h2
+{
+font-size: 2rem;
+margin-bottom: 10px;
+color: red;
+text-align: center;
+}
+.geographie-contenu .carteback em
+{
+    font-size: 60px;
+    text-decoration: underline red solid;
+}
+#Histoire-Asie
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+#Apperçue-Asie
+{
+    transform: rotate(-12deg) skew(25deg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #B4BAFF;
+    font-size: 4rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    text-shadow: 1px 1px 1px #ffebd8, 1px 2px 1px #ffebd8, 1px 3px 1px #ffebd8, 1px 4px 1px #ffebd8, 1px 5px 1px #ffebd8, 1px 6px 1px #ffebd8, 1px 7px 1px #ffebd8, 1px 8px 1px #ffebd8, 1px 9px 1px #ffebd8, 1px 10px 1px #857dff ;
+
+}
+/*box apperçue*/
+.style
+{
+    margin-top: 5%;
+    display: inline-block;   
+}
+.style:hover
+{
+    cursor: pointer;
+}
+.monument
+{
+    display:block;
+    margin-left: 5%;
+    padding: 0px 5px 10px 5px;
+    
+}
+.cardcontainer
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(400px,1fr));
+    grid-gap: 20px;
+    margin: 80px 0px;
+    
+    
+}
+.cardwrapper
+{
+    position: relative;
+    height: 350px;
+    perspective: 2000px;/*il s'agit d'une distance de 2000px qui vas séparer notre carte de notre ecran afin de pouvoir y insérer ce que nous voulons. dans notre cas cela nous permettra de pouvoir la retourner sans utilisé l'espace des autres cartes */
+    perspective-origin: top;
+}
+.cardwrapper:hover .carte
+{
+transform: rotateY(180deg);
+transition: 2s cubic-bezier(0.86, 0, 0.07, 1);
+    
+}
+.carte
+{
+    position: relative;
+    height: 100%;
+    transform-style: preserve-3d;
+    
+    font-weight: bold;
+    color: #B4BAFF;
+    display:flex;
+}
+
+.cartefront,.carteback
+{
+    position: absolute;
+    height: 100%;
+    width: 60%;
+    padding: 55px;
+    border-radius: 8px;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;/*pour chromme et safari*/
+   
+    
+
+}
+.cartefront
+{
+   
+    background-size: cover;
+}
+.carteback
+{
+    background-color: #ffebd8;
+    transform: rotateY(180deg);
+   text-align: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
